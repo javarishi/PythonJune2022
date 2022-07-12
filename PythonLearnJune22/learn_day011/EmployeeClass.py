@@ -10,6 +10,7 @@ class Employee:
     def hr_function(self):
         print("Emp HR Function ", self.emp_id)
 
+
 # instanceName = Classname()
 emp_101 = Employee(101, "Richard", "Remote")
 emp_1010 = Employee(101, "Richard", "Remote")
